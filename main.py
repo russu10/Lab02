@@ -1,5 +1,5 @@
 import translator as tr
-
+#
 t = tr.Translator()
 t.loadDictionary("dictionary.txt")
 
